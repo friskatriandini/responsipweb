@@ -1,0 +1,3 @@
+friska|Jakarta|Yogyakarta|6|5000|30000
+gt|Semarang|Jakarta|89|5000|445000
+fris|Jakarta|Semarang|70|5000|350000
