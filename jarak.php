@@ -11,4 +11,5 @@
 	fclose($fp);
 
 	echo "Terimakasih, Rincian Format Anda Telah Di Cetak Pada File txt";
+	echo "<a href=lihat.php> Rincian </a><br>";
 	?>
