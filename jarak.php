@@ -3,7 +3,7 @@
 		$iasal	 			= $_POST['iasal'];
 		$itujuan			= $_POST['itujuan'];
 		$ijumlah			= $_POST['ijumlah'];
-		$otiket     		= $_POST['otiket'];
+		$otiket     			= $_POST['otiket'];
 		$osub   			= $_POST['osub'];
 
 	$fp = fopen("jaskim.txt", "a+");
